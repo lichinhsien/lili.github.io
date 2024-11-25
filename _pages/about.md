@@ -1,49 +1,75 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "春露潤物，秋霜勁節"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I am an Associate Professor and Master's Supervisor at the Institute of Political Science and State Governance Studies, Central China Normal University.
 
-A data-driven personal website
+I hold a Bachelor of Laws from China University of Political Science and Law, a Master's degree in Political Science from University College London, and a Ph.D. in Management from Zhejiang University. My research spans Historical Political Economy, Organizational Sociology, and Computational Social Science. I have published over ten papers in academic journals including the Journal of Chinese Sociology, Sociological Review（社会学评论）, Academic Monthly（学术月刊）and Chinese Public Administration（中国行政管理）. I have led multiple projects funded by the National Social Science Foundation of China.
+
+My primary research areas include: (1) Historical Political Economy: econometric and natural experimental studies on state-society relations from a historical perspective, with particular focus on how historical legacies influence contemporary state building; (2) Organizational Sociology: grassroots governance, policy implementation, and local government behavior; (3) Computational Social Science: vertical intergovernmental relations and their adaptation in the digital age, as well as methodological aspects of computational social science, especially Natural Language Processing (NLP) and Large Language Models (LLM).
+
+I serve as a council member of the Hubei Political Science Association and maintain memberships in both the American Political Science Association and the American Sociological Association. I am also the sole founder of "理论志," China's largest WeChat account matrix in the field of social sciences.
+
+
+Publications
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+1. Weakening of the State by Occupying More Lands: An Evidence from Five Dynasties, Journal of Chinese Sociology, 2024, 11, 23.
+   (with Shengyu He and Ruixin Ji)
+   [website](https://doi.org/10.1186/s40711-024-00223-x)
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+2.《“合作应对”何以替代“上下共谋”——对春镇基层政策执行的过程追踪》，《社会学评论》2023年第4期。
 
-Getting started
+3. 《国家能力：走出理论荒野》，《学术月刊》2022年第11期。
+
+4. 《条块关系与基层执法权属地化的结构困境——Z镇“乡镇综合行政执法”的个案分析》，《中国行政管理》2022年第9期。（CSSCI）
+
+5. 《政治经济学视野的国家理论演进图景和反思》，《政治经济学报》2023年第1期。
+
+6. 《算法时代的社会、政府与治理：变革与挑战》，《党政研究》2024年第3期。（北大核心）
+
+7. 《治理逻辑、权力结构与监督制度绩效》，《经济社会体制比较》2023年第5期。（CSSCI，《新华文摘》纸质版篇目辑录）
+
+8. 《关系叠加机制的国家演化——国家建构中的血缘与地缘兼评<关系中的国家>》，《党政研究》2020年第6期。
+
+9. 《把“政党”带入农民革命：一项近代农民革命的比较历史研究》，《北大政治学评论》2023年第1辑。
+
+10. 《政党如何组织社会?——西方政党耦合理论研究评述》，《政党与现代国家发展》2024年第1辑。
+
+
+Selected Papers in Progress
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+1. Patronage, Power, and Poverty: Informal Network and Anti-poverty Championship (with Haotian Bai, Oxford)
 
-Site-wide configuration
+2. Does War Make Democracy Work? Evidence from the Russia-Ukraine War (with Shengyu He, ZJU; Yuxing Cheng, Michigan)
+
+3. Seeing Like a Fireman: Attention Allocation and StreetLevelBureaucratic Behavior in the Digital Governance (with Zheng Huang and Jiali Lu, CCNU)
+
+4. The Land of Outlaw, State Capacity and Individual Trust in China (with Haotian Bai, Oxford; Yuyin Chen, CCNU)
+
+5. Railway Legacy and State-building in China: Evidence from A Natural Experiment (with Zhengxu Wang, ZJU; Meixi Zhuang, FDU)
+   
+
+Book in Progress
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+The Peak of War: State Building in the Tang Dynasty Amid War
 
-Create content & metadata
+
+Reviews and News
 ------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+新京报：《“云上思韦伯”：中国知识分子如何反思韦伯的思想遗产？》，2020年6月19日。澎湃新闻、凤凰网等媒体全文转载。
 
-**Markdown generator**
+慈善公益报：《十四五时期的精神富裕创新发展》，2022年4月25日。
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+慈善公益报：《大慈岩镇：“联乡结村”构建乡村振兴的慈善自治模式》，2021年7月28日。
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+杭州（中共杭州市委机关刊物）：《亚运场馆助力共同富裕的临平探索》，2023年12月。
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about my information can be found in [the institute website in Chinese](https://ipng.ccnu.edu.cn/home/details?id=10247), and send Email(lichinhsien_km/at/outlook.com) to me.
